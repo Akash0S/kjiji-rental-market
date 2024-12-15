@@ -94,16 +94,7 @@ Feature Engineering: Prepare the data for machine learning models by encoding ca
 
 Model Training: Train regression models to predict rental prices or classification models to determine rental demand.
 
-9. Files Included
 
-kijiji_dataset.csv: The raw dataset containing all rental property records.
-
-cleaned_dataset.csv: The processed version of the dataset used for analysis and modeling.
-
-notebooks/: Jupyter notebooks containing EDA, preprocessing, and machine learning models.
-
-visualizations/: Plots and charts generated during analysis.
-
-10. Acknowledgments
+9. Acknowledgments
 
 This project was made possible through the analysis of publicly available rental data from Kijiji. Special thanks to the team members who contributed to the data cleaning, preprocessing, and modeling phases.
